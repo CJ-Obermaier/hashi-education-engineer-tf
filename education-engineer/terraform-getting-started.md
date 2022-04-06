@@ -1,6 +1,8 @@
 # Getting Started with Terraform
+In this guide, you will learn the fundamental Terraform commands to deploy and destroy infrastructure by deploying an NGINX web server running in a Docker container. 
 
-In this guide, you will learn the fundamental Terraform commands to deploy and destroy infrastructure by deploying an NGINX web server. 
+## What is Terraform?
+Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
 
 ## Prerequisites
 - **Terraform**
